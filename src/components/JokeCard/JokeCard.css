@@ -1,0 +1,9 @@
+.joke-card-container{
+    width: 60%;
+    height:auto;
+    background-color: #fff;
+    font-size: 30px;
+    padding: 50px 20px;
+    text-align: justify;
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0,0.2);
+}
